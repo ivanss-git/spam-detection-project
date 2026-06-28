@@ -1,0 +1,6 @@
+System: Input -> Rule Engine -> ML Model -> Decision Engine -> Prediction -> Feedback
+
+What information flows between each component?
+What should each component be responsible for? 
+What should each function return? 
+
